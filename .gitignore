@@ -53,3 +53,26 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+*.crf
+*.d
+*.o
+*.sct
+*.htm
+*.map
+*.lnp
+*.dep
+*.axf
+*.iex
+*.lst
+
+# keil 文件
+/Objects
+/Listings
+/DebugConfig
+*.uvoptx
+*.uvguix.*
+
+# vscode 配置文件
+*.vscode
+
